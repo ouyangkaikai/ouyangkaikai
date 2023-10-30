@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![暗色](https://raw.githubusercontent.com/ouyangkaikai/ouyangkaikai/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
